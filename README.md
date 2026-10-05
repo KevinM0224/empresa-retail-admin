@@ -37,8 +37,6 @@ empresa-retail-admin/
 │   ├── 04_usuarios_roles.sql
 │   ├── 05_permisos.sql
 │   └── 06_verificacion_privilegios.sql
-├── scripts/
-│   └── probar_permisos.sh
 └── docs/
     └── Informe_Tecnico_Empresa_Retail.docx
 ```
