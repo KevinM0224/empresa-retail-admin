@@ -37,3 +37,4 @@ credenciales*.txt
 Thumbs.db
 
 ~$*
+.~lock*#
